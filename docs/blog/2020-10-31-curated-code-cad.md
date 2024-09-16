@@ -44,10 +44,10 @@ No matter which one is your tool of choice, if you're here and you love Code-CAD
 
 The rest of the packages are in alphabetical order, but OpenSCAD gets a special mention because it's the OG. Many of the projects below were inspired by OpenSCAD and is the most well-known choice. If you're new to code-cad this is the safest choice. The syntax is easy to pick up and there lots of guides around the internet.
 
-### [OpenCascade](https://www.opencascade.com/)
-- [Repo](https://github.com/tpaviot/oce)
+### [OpenCascade](https://dev.opencascade.org/)
+- [Repo](https://github.com/Open-Cascade-SAS/OCCT)
 - [Community](https://dev.opencascade.org/)
-- [Docs](https://old.opencascade.com/doc/occt-6.9.1/refman/html/index.html)
+- [Docs](https://dev.opencascade.org/resources/documentation)
 - License: LGPL-2.1
 - ~~Online editor~~
 
